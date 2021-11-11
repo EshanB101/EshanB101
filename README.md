@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eshan 
 - 👀 Coding? :(
-- 🌱 HTML,JS,CSS,Python,React,Bootstrap
+- 🌱 HTML,JS,CSS,Python,Angular,Bootstrap
 - 💞️ I’m looking to collaborate on ...
 - 📫 @fateboss [insta]
 
