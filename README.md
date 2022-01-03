@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Eshan 
-- 👀 Coding? :(
-- 🌱 HTML,JS,CSS,Python,Angular,Bootstrap
-- 💞️ I’m looking to collaborate on ...
-- 📫 @fateboss [insta]
+- 👀 UI Dev
+- 🌱 HTML,JS,CSS,Python,Angular,Bootstrap,Git
+
+
 
 <!---
 EshanB101/EshanB101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
