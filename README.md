@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eshan 
 - 👀 UI Dev
-- 🌱 HTML,JS,CSS,Python,Angular,Bootstrap,Git
+- 🌱 SELISE
 
 
 
