@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Eshan 
-- 👀 UI Dev
+- 👋 Eshan 
 - 🌱 SELISE
 
 
