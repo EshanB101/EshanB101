@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/ width="200">
   <div style="float:right">
-    <h2>Eshan Basnet / Developer / SELISE Bhutan</h2>
+    <h2>( ͡°( ͡° ͜ʖ( ͡° ͜ʖ ͡°)ʖ ͡°) ͡°)</h2>
+    <h2>Eshan Basnet / Developer / SELISE Bhutan (づ￣ ³￣)づ</h2>
   </div>
 </div>
 
