@@ -9,6 +9,7 @@
 ### :fire: My Stats :
 ![Eshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EshanB101&show_icons=truetheme=radical) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EshanB101&layout=compact)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EshanB101&theme=dark&background=000000)](https://git.io/streak-stats) 
 
 
 ### :hammer_and_wrench: Languages and Tools :
